@@ -11,7 +11,7 @@ When the app is restarted, the credentials are **automatically loaded** from sto
 ✅ **Snackbar Messages** for Feedback
 
 ## 📸 App Preview
-![Login Screen](preview.png)
+![Login Screen](lib/101.png)
 
 ## 👉 Live Demo
 
